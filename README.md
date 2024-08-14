@@ -28,4 +28,3 @@ Other File links-
 ![credit ease](form.png)
 ![credit ease](result.png)
 
-A Project by Ansh Tanwar, Ekam Singh Ahuja and Paras Roy - Team CatchUs.
